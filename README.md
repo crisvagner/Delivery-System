@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-É um sistema de entrega, desenvolvido durante a "Imersão FullCycle" do Wesley, onde desenvolvemos juntos, ao vivo, esta aplicação Codelivery com simulador para simular os veículos dos entregadores, mas poderia ser o celular do entregador, enviando as localizações em tempo real.
+É um sistema de entrega, desenvolvido durante a "Imersão FullCycle" do Wesley, onde será desenvolvido, ao vivo, esta aplicação Codelivery com simulador para simular os veículos dos entregadores, mas poderia ser o celular do entregador, enviando as localizações em tempo real.
 
 As tecnologias que iremos utilizar são:
 
