@@ -2,9 +2,9 @@
 
 ## Sobre o Projeto
 
-É um sistema de entrega, desenvolvido durante a "Imersão FullCycle" do Wesley, onde será desenvolvido, ao vivo, esta aplicação Codelivery com simulador para simular os veículos dos entregadores, mas poderia ser o celular do entregador, enviando as localizações em tempo real.
+É um sistema de entrega, desenvolvido durante a "Imersão FullCycle" do Wesley, onde foi desenvolvido, ao vivo, esta aplicação Codelivery com simulador para simular os veículos dos entregadores, mas poderia ser o celular do entregador, enviando as localizações em tempo real.
 
-As tecnologias que iremos utilizar são:
+Tecnologias utilizadas:
 
 - Backend: Nest.js e Mongo
 - Frontend: React
@@ -15,7 +15,7 @@ As tecnologias que iremos utilizar são:
 
 ## Objetivo do Projeto
 
-Apenas brincar com as Tecnologias. Mais pra frente irei repetir esse mesmo projeto varias vezes até conseguir desenvolve-lo sem consultar nada, exceto as documentações oficiais de cada ferramenta caso seja nescessário.
+Apenas brincar com as Tecnologias. Mais pra frente irei repetir esse mesmo projeto varias vezes até conseguir desenvolve-lo sem consultar nada, exceto as documentações oficiais de cada ferramenta caso seja nescessário realizar alguma consulta.
 
 ## Divulgação/Créditos
 
